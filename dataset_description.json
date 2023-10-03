@@ -1,0 +1,18 @@
+{
+  "Name": "MorphoSem",
+  "BIDSVersion": "1.0.2",
+  "License": "CC0",
+  "Authors": [
+    "Eddy Cavalli",
+    "Johannes Ziegler",
+    "Estelle Sangouard",
+    "Valérie Chanoine"	
+  ],
+  "Acknowledgements": "say here what are your acknowledgments",
+  "HowToAcknowledge": "say here how you would like to be acknowledged",
+  "Funding": ["list your funding sources"],
+  "ReferencesAndLinks": [
+    "a data paper",
+    "a resource to be cited when using the data"
+  ]
+}
